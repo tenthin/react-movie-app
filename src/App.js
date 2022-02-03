@@ -1,4 +1,7 @@
 import './App.scss';
+import React from "react";
+import {BrowerRouter as Router, Route, Switch} from "react-router-dom";
+
 
 function App() {
   return (
